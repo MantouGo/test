@@ -1,0 +1,9 @@
+/home/Hsinggu/data/darknet-master/libdarknet.so
+/home/Hsinggu/data/darknet-master/include/darknet/darknet.h
+/home/Hsinggu/data/darknet-master/include/darknet/yolo_v2_class.hpp
+/home/Hsinggu/data/darknet-master/uselib
+/home/Hsinggu/data/darknet-master/darknet
+/home/Hsinggu/data/darknet-master/share/darknet/DarknetTargets.cmake
+/home/Hsinggu/data/darknet-master/share/darknet/DarknetTargets-release.cmake
+/home/Hsinggu/data/darknet-master/share/darknet/DarknetConfig.cmake
+/home/Hsinggu/data/darknet-master/share/darknet/DarknetConfigVersion.cmake
