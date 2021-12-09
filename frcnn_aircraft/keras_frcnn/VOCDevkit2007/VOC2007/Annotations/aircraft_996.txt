@@ -1,0 +1,5 @@
+C:/Users/riverkidden/Desktop/keras-frcnn-master/keras_frcnn/VOCDevkit2007/VOC2007/Annotations/JPEGImages/aircraft_996.jpg,499,606,564,676,aircraft
+C:/Users/riverkidden/Desktop/keras-frcnn-master/keras_frcnn/VOCDevkit2007/VOC2007/Annotations/JPEGImages/aircraft_996.jpg,594,540,658,607,aircraft
+C:/Users/riverkidden/Desktop/keras-frcnn-master/keras_frcnn/VOCDevkit2007/VOC2007/Annotations/JPEGImages/aircraft_996.jpg,616,486,690,546,aircraft
+C:/Users/riverkidden/Desktop/keras-frcnn-master/keras_frcnn/VOCDevkit2007/VOC2007/Annotations/JPEGImages/aircraft_996.jpg,925,265,967,301,aircraft
+C:/Users/riverkidden/Desktop/keras-frcnn-master/keras_frcnn/VOCDevkit2007/VOC2007/Annotations/JPEGImages/aircraft_996.jpg,957,238,996,268,aircraft

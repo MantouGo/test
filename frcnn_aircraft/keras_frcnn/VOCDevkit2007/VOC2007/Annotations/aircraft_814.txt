@@ -1,0 +1,1 @@
+C:/Users/riverkidden/Desktop/keras-frcnn-master/keras_frcnn/VOCDevkit2007/VOC2007/Annotations/JPEGImages/aircraft_814.jpg,498,481,565,567,aircraft
